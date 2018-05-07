@@ -2,4 +2,5 @@
 
 *.pyc
 
+*checkpoint.ipynb
 /.ipynb_checkpoints
